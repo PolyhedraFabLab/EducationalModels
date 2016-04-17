@@ -1,3 +1,3 @@
 # Dental
 ## File list
-Teeth
+* [Set of all teeth] (Teeth.zip)
